@@ -1,5 +1,5 @@
 - My compiler :
-IDE : VISUAL STUDIO
+IDE : VISUAL STUDIO CODE
 
 - The libraries i used : 
 #include<iostream>
@@ -11,4 +11,7 @@ IDE : VISUAL STUDIO
 - Note : 
  file . h is used to declare functions and files.cpp is used to write functions.
 
+- Knowledege to implement this project:
+ + Pointer & Smart Pointer
+ + OOP 
 
